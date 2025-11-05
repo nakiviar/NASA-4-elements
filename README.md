@@ -25,6 +25,10 @@
 
 This project integrates NASA satellite data with local sources (SEDAPAL, SENAMHI, CENEPRED, and others) to build an interactive geospatial platform that visualizes environmental and urban information on a map. The goal is to support urban planning and risk management in human settlements across Lima.
 
+Imagine a city that can predict where informal settlements will appear before a single house is built. A.V.A.T.A.T.A.R Lima makes this possible by scanning the city every day, integrating data on vegetation loss, nighttime lights, and topography. Municipal teams receive real-time alerts, empowering them to act proactively and prevent urban problems before they grow.
+
+But it doesn’t stop there. The platform also tracks real-time emissions of CO₂, CH₄, NO₂, and particulate matter (PM), giving urban planners instant insights to make smarter, greener decisions. From creating new parks and sidewalks to expanding green zones, A.V.A.T.A.T.A.R Lima transforms data into action, helping cities grow smarter, cleaner, and greener—one block at a time. 🌱
+
 ## 🎬 Demo Video
 
 <p align="center">
