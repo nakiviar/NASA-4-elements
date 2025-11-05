@@ -25,6 +25,18 @@
 
 This project integrates NASA satellite data with local sources (SEDAPAL, SENAMHI, CENEPRED, and others) to build an interactive geospatial platform that visualizes environmental and urban information on a map. The goal is to support urban planning and risk management in human settlements across Lima.
 
+## 🎬 Demo Video
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=bEUhhITKihg" target="_blank">
+    <img src="https://img.youtube.com/vi/bEUhhITKihg/0.jpg" alt="Watch the video" width="600">
+  </a>
+</p>
+
+<p align="center">
+  🎥 <a href="https://www.youtube.com/watch?v=bEUhhITKihg" target="_blank">Watch the full demo on YouTube</a>
+</p>
+
 ## 🧭 Objective
 
 To develop a data-driven tool that combines information about water, air, land, and natural hazards to identify critical areas, predict risks, and prioritize sustainable actions that improve quality of life and urban resilience in vulnerable communities.
